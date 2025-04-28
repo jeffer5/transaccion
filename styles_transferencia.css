@@ -1,0 +1,250 @@
+body{
+
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#head{
+    width: 95%;
+    height: 150px;
+    background-color: #d59aed ;
+    display: flex;
+    margin-left: 2%;
+    border-radius: 20px;
+}
+
+#tittle{
+    
+    font-size: 50px;
+    margin-left: 40%;
+    margin-top: 4%;
+}
+
+#intro{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+
+#inicio_sesion{
+
+    border:#d59aed 1px solid;
+    width: 30%;
+    height: 240px;
+    text-align: center;
+    margin-left: 35%;
+    border-radius: 20px;
+
+}
+
+#usu{
+    margin-top: 10%;
+    margin-right: -5%;
+}
+
+#olv{
+    
+    text-decoration: none;
+}
+
+#reg{
+    margin-left: 8%;
+    text-decoration: none;
+}
+
+#salir{
+    margin-top: 2%;
+    text-decoration: none;
+    width: 5%;
+    height: 30px;
+    margin-left: 5%;
+}
+
+section{
+    margin-bottom: 6%;
+}
+
+#id-reg{
+    margin-left: 30%;
+    text-align: left;
+    border: #d59aed  2px solid;
+    border-radius: 20px;
+    width: 40%;
+    height: 450px;
+}
+
+#id-reg1{
+   
+    width: 90%;
+    height: auto;
+    margin: 3%;
+    
+}
+
+#id-reg1 input{
+    
+    width: 40%;
+    height: 30px;
+    font-size: 18px;
+    
+}
+
+#nom{
+    margin-bottom: 4%;
+    margin-left: 7%;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#tipd{
+    margin-bottom: 4%;
+    margin-left: 8%;
+    
+}
+
+#ndoc{
+    margin-bottom: 4%;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#ncel{
+    margin-bottom: 4%;
+    margin-left: 5%;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#usur{
+    margin-bottom: 4%;
+    margin-left: 20%;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#pasr{
+    margin-left: 14%;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#regis{
+    margin-top: 6%;
+    margin-left: 16%;
+    width: 35%;
+    height: 35px;
+    border-radius: 20px;
+}
+
+#limp{
+
+    width: 35%;
+    height: 35px;
+    border-radius: 20px;
+}
+
+#retiros{
+    margin-top: 3%;
+    width: 20%;
+    margin-left: 41%;
+    border: #d59aed  1px solid;
+    border-radius: 20px;
+}
+
+#ret{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: 5%;
+    width: 40%;
+    height: 30px;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#cosre{
+   
+    width: 40%;
+    height: 30px;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#ret-but{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 25%;
+    height: 30px;
+}
+
+#consignaciones{
+    margin-top: 3%;
+    width: 20%;
+    margin-left: 41%;
+    border: #d59aed  1px solid;
+    border-radius: 20px;
+   
+}
+
+#informacion_cuenta{
+
+    margin-top: 3%;
+    width: 20%;
+    margin-left: 41%;
+    border: #d59aed  1px solid;
+    border-radius: 20px;
+    
+}
+
+#val{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: 2%;
+    width: 40%;
+    height: 30px;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#cosco{
+   
+    width: 40%;
+    height: 30px;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+}
+
+#sal{
+   
+    width: 10%;
+    height: 30px;
+    border: none;
+    border-bottom: #d59aed  1px solid;
+    font-size: 18px;
+}
+
+#con{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 25%;
+    height: 30px;
+}
+
+#lim{
+  
+    width: 30%;
+    height: 30px;
+}
+
+#limpi{
+    width: 30%;
+    height: 30px;
+}
+
+#ing{
+    width: 30%;
+    height: 30px;
+}
+
+#yo{
+    margin-top: 2%;
+}
