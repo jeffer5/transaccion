@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles_transferencia.css">
+    <title>Registro_digital</title>
+    
+</head>
+<body>
+    
+    <header id="head">
+    
+        <h1 id="tittle">Banco Digital</h1>
+    
+    </header>
+
+    <p id="intro">Bienvenido a su plataforma digital, para registarse por favor llene este formulario</p>
+
+    <form action="transferencia_pri.php" method="post">
+
+        <div id="id-reg">
+            <div id="id-reg1">
+            <label for="">
+                Nombre completo<input type="text" name="nom" id="nom">
+            </label>
+            <br>
+            <label for="">
+                Tipo documento <select name="tipd" id="tipd">
+                                    <option value=" ">escoga</option>
+                                    <option value="CC">CC</option>
+                                    <option value="CE">CE</option>
+                            </select>
+            </label>
+            <br>
+            <label for="">
+                Numero de documento <input type="number" name="ndoc" id="ndoc">
+            </label>
+            <br>
+            <label for="">
+                Numero de celular <input type="number" name="ncel" id="ncel">
+            </label>
+            <br>
+            <label for="">
+                Usuario<input type="text" name="usur" id="usur">
+            </label>
+            <br>
+            <label for="">
+                Contrasena<input type="password" name="pasr" id="pasr">
+            </label>
+            <br>    
+            <label for="">
+                <button  type="submit" name="regi" id="regis" >registarse</button>
+                <button type="reset" name="limp" id="limp" >Limpiar</button>
+            </label>
+            </div>
+        </div>
+
+
+    </form>
+
+
+    <button onclick="salir()" id="salir"><a href="transferencia.html" id="salir">salir</a></button>
+   
+
+    <script src="inicio_sesion.js"></script> 
+</body>
+</html>
